@@ -1,5 +1,7 @@
 # Lilys-Bloom-Bot
 
+# Serverless Retrieval-Augmented Conversational AI using Amazon Bedrock, Lex, and Vector Search
+
 BloomBot is a conversational assistant for Lily's Bloom Boutique Flower Shop that provides product recommendations, delivery information, and policy support using retrieval-augmented generation powered by Amazon Bedrock.
 
 System Architecture
