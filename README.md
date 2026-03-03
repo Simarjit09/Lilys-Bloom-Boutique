@@ -4,4 +4,5 @@ BloomBot is a conversational assistant for Lily's Bloom Boutique Flower Shop tha
 
 System Architecture
 
+![Untitled drawing](https://github.com/user-attachments/assets/a51a4dfa-d3dd-4b9b-864f-60c0f094e947)
 
