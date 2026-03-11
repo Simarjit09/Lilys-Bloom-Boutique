@@ -32,6 +32,7 @@ These documents serve as the source of truth for the assistant. All of them went
 The Knowledge Base was configured with:
 Max chunk size: 500 tokens
 Overlap: 20%
+Used Claude Haiku as the model. 
 
 When a user submits a query:
 The query is converted into an embedding.
